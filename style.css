@@ -1,0 +1,33 @@
+/* Reset do navegador */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Estilos gerais */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f4f4f4;
+  color: #222222;
+}
+
+/* Container para centralizar e limitar a largura do conteúdo */
+
+/* Cabeçalho */
+
+/* Menu */
+
+/* Seções */
+
+/* Imagem */
+
+/* Lista */
+
+/* Card */
+
+/* Tabela */
+
+/* Formulário */
+
+/* Rodapé */
